@@ -1,4 +1,6 @@
 # Lab-Exercise-2
+## NAME:P.SHERIL
+## REG NO:212225230262
 ## Aim:
 To design responsive basic mobile and web layouts for a given case study using Figma, incorporating Gestalt principles, standard UI elements, design patterns, interaction behaviors, and usability guidelines, alongside creating and integrating a custom brand logo designed using Canva.
 
